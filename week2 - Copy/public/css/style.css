@@ -1,0 +1,43 @@
+body {
+    background-color:darkolivegreen;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 5vw;
+}
+
+table, td, th {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 15px;
+}
+
+span {
+    color: yellow;
+}
+
+.menu {
+    background-color: lightgray;
+    display: flex;
+    justify-content: right;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    margin-right: 10px;
+}
+
+li {
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+}
